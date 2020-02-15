@@ -1,0 +1,25 @@
+5
+1
+2
+3
+4
+5
+
+3
+customer
+2 1 1
+reserveblock 3 1 2019 1 10 5 MM
+cancelblock  2 2 2019 1 10 3 MM
+end.
+
+customer
+2 1 2
+reserve 3 2019 1 5 3 WK
+cancel  5 2019 1 2 2 WK
+reserveblock 3 3 2019 1 5 3 WK
+end.
+
+customer
+2 1 2
+reserve 4 2019 1 5 4 WK
+end.

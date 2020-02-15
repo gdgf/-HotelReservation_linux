@@ -1,0 +1,23 @@
+5
+1
+2
+3
+4
+5
+3
+
+customer
+2 1 1
+reserve 1 2019 1 7 1 LL
+reserve 1 2019 1 7 2 MM
+end.
+
+customer
+2 1 2
+reserve  3 2019 1 5 3 WK
+end.
+
+customer
+2 1 2
+reserve 4 2019 1 5 4 WK
+end.
